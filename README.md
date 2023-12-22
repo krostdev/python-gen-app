@@ -6,4 +6,10 @@
 - **[Custom TKinter](https://customtkinter.tomschimansky.com/documentation/)** - `pip install customtkinter`
 - **[Keyboard](https://pypi.org/project/keyboard/)** - `pip install keyboard`
 
+## Inicializar:
+- **python main.py**
+
+### Observações:
+- No login já vem 2 usuarios predefinidos, que são eles **admin** e **user**, e a senha de ambos e o usuario.
+
 ###### [Author: @krostport](https://discord.com/channels/@me/1176208644614914130)
