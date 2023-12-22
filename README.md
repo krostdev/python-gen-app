@@ -5,6 +5,7 @@
 - **[TKinter](https://docs.python.org/pt-br/3.9/library/tkinter.html)** - `pip install tkinter`
 - **[Custom TKinter](https://customtkinter.tomschimansky.com/documentation/)** - `pip install customtkinter`
 - **[Keyboard](https://pypi.org/project/keyboard/)** - `pip install keyboard`
+- **Packaging** - `pip install packaging`
 
 ## Inicializar:
 - **python main.py**
